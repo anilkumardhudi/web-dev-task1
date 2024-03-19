@@ -1,0 +1,59 @@
+body{
+    border: 1px solid black;
+}
+.page{
+    margin: 50px;
+}
+.company{
+    margin: auto;
+    width: 10%;
+    background-color: violet;
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+}
+.about{
+    font-size:25px;
+    text-align: center;
+    padding: 8px;
+}
+hr{
+    border-top: 3px dashed violet;
+    width: 40%;
+}
+h3{
+    text-align: center;
+}
+.team{
+    margin: auto;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    background-color: violet;
+    padding: 3px;
+    color: white;
+    border-radius: 3px;
+    /* margin-top: 40px; */
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+}
+span{
+    display: block;
+}
+.line{
+    display: flex;
+    justify-content: space-evenly;
+}
+.team2,.team3{
+    margin: auto;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    background-color: violet;
+    padding: 3px;
+    color: white;
+    border-radius: 3px;
+    margin-top: 30px;
+}
